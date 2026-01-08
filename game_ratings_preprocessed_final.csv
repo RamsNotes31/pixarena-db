@@ -1,0 +1,102 @@
+game_name,developer,genre,rating,Outlier_Flag,Rating_Normalized,Rating_Standardized,Rating_Score_100,Rating_Category,Genre_Cleaned,Dev_Avg_Rating,Dev_Game_Count,Dev_Rating_Std,Dev_Min_Rating,Dev_Max_Rating,Developer_Tier,Genre_Popularity_Score,Global_Rank,Rating_Percentile,Data_Snapshot_Date,Data_Snapshot_DateTime
+Candy Crush Saga,King,Puzzle,4.6,Normal,0.7142857142857132,1.1739824851723817,71.43,1. Top Rated (≥4.5),Puzzle,4.55,2,0.07,4.5,4.6,Indie Developer,13,8,88.12,2026-01-08,2026-01-08 11:48:26
+Clash of Clans,Supercell,Strategy,4.5,Normal,0.5714285714285711,0.5955813583313558,57.14,1. Top Rated (≥4.5),Strategy,4.48,5,0.04,4.4,4.5,AAA Publisher,17,19,72.28,2026-01-08,2026-01-08 11:48:26
+Among Us,InnerSloth,Party,4.4,Normal,0.42857142857142894,0.017180231490330142,42.86,2. Good (4.0 - 4.4),Others,4.4,1,0.0,4.4,4.4,Indie Developer,1,40,51.980000000000004,2026-01-08,2026-01-08 11:48:26
+Pokémon GO,Niantic,Augmented Reality,4.3,Normal,0.28571428571428553,-0.5612208953507007,28.57,2. Good (4.0 - 4.4),Others,4.3,1,0.0,4.3,4.3,Indie Developer,1,60,32.18,2026-01-08,2026-01-08 11:48:26
+PUBG Mobile,Tencent Games,Battle Royale,4.2,Normal,0.1428571428571434,-1.1396220221917264,14.29,2. Good (4.0 - 4.4),Battle Royale,4.2,1,0.0,4.2,4.2,Indie Developer,3,80,14.85,2026-01-08,2026-01-08 11:48:26
+Roblox,Roblox Corporation,Sandbox,4.5,Normal,0.5714285714285711,0.5955813583313558,57.14,1. Top Rated (≥4.5),Others,4.5,1,0.0,4.5,4.5,Indie Developer,2,19,72.28,2026-01-08,2026-01-08 11:48:26
+Fortnite,Epic Games,Battle Royale,4.1,Normal,0.0,-1.7180231490327573,0.0,2. Good (4.0 - 4.4),Battle Royale,4.1,1,0.0,4.1,4.1,Indie Developer,3,95,3.9600000000000004,2026-01-08,2026-01-08 11:48:26
+Genshin Impact,miHoYo,Action Rpg,4.7,Normal,0.8571428571428567,1.7523836120134124,85.71,1. Top Rated (≥4.5),Others,4.65,2,0.07,4.6,4.7,Indie Developer,2,5,95.05,2026-01-08,2026-01-08 11:48:26
+Call of Duty: Mobile,Activision,Shooter,4.3,Normal,0.28571428571428553,-0.5612208953507007,28.57,2. Good (4.0 - 4.4),Others,4.3,1,0.0,4.3,4.3,Indie Developer,1,60,32.18,2026-01-08,2026-01-08 11:48:26
+Subway Surfers,SYBO Games,Endless Runner,4.5,Normal,0.5714285714285711,0.5955813583313558,57.14,1. Top Rated (≥4.5),Endless Runner,4.5,1,0.0,4.5,4.5,Indie Developer,4,19,72.28,2026-01-08,2026-01-08 11:48:26
+Temple Run,Imangi Studios,Endless Runner,4.2,Normal,0.1428571428571434,-1.1396220221917264,14.29,2. Good (4.0 - 4.4),Endless Runner,4.2,1,0.0,4.2,4.2,Indie Developer,4,80,14.85,2026-01-08,2026-01-08 11:48:26
+Angry Birds,Rovio Entertainment,Arcade,4.3,Normal,0.28571428571428553,-0.5612208953507007,28.57,2. Good (4.0 - 4.4),Arcade,4.5,3,0.17,4.3,4.6,Mid-Tier Publisher,10,60,32.18,2026-01-08,2026-01-08 11:48:26
+Fruit Ninja,Halfbrick Studios,Arcade,4.4,Normal,0.42857142857142894,0.017180231490330142,42.86,2. Good (4.0 - 4.4),Arcade,4.4,2,0.0,4.4,4.4,Indie Developer,10,40,51.980000000000004,2026-01-08,2026-01-08 11:48:26
+Brawl Stars,Supercell,Action,4.5,Normal,0.5714285714285711,0.5955813583313558,57.14,1. Top Rated (≥4.5),Action,4.48,5,0.04,4.4,4.5,AAA Publisher,5,19,72.28,2026-01-08,2026-01-08 11:48:26
+Minecraft,Mojang,Sandbox,4.8,Normal,0.9999999999999988,2.330784738854438,100.0,1. Top Rated (≥4.5),Others,4.8,1,0.0,4.8,4.8,Indie Developer,2,2,98.02,2026-01-08,2026-01-08 11:48:26
+Asphalt 9: Legends,Gameloft,Racing,4.6,Normal,0.7142857142857132,1.1739824851723817,71.43,1. Top Rated (≥4.5),Racing,4.45,2,0.21,4.3,4.6,Indie Developer,5,8,88.12,2026-01-08,2026-01-08 11:48:26
+8 Ball Pool,Miniclip,Sports,4.5,Normal,0.5714285714285711,0.5955813583313558,57.14,1. Top Rated (≥4.5),Sports,4.5,1,0.0,4.5,4.5,Indie Developer,4,19,72.28,2026-01-08,2026-01-08 11:48:26
+Homescapes,Playrix,Puzzle,4.4,Normal,0.42857142857142894,0.017180231490330142,42.86,2. Good (4.0 - 4.4),Puzzle,4.4,2,0.0,4.4,4.4,Indie Developer,13,40,51.980000000000004,2026-01-08,2026-01-08 11:48:26
+Gardenscapes,Playrix,Puzzle,4.4,Normal,0.42857142857142894,0.017180231490330142,42.86,2. Good (4.0 - 4.4),Puzzle,4.4,2,0.0,4.4,4.4,Indie Developer,13,40,51.980000000000004,2026-01-08,2026-01-08 11:48:26
+Clash Royale,Supercell,Strategy,4.5,Normal,0.5714285714285711,0.5955813583313558,57.14,1. Top Rated (≥4.5),Strategy,4.48,5,0.04,4.4,4.5,AAA Publisher,17,19,72.28,2026-01-08,2026-01-08 11:48:26
+Mario Kart Tour,Nintendo,Racing,4.2,Normal,0.1428571428571434,-1.1396220221917264,14.29,2. Good (4.0 - 4.4),Racing,4.2,1,0.0,4.2,4.2,Indie Developer,5,80,14.85,2026-01-08,2026-01-08 11:48:26
+Hearthstone,Blizzard Entertainment,Card,4.1,Normal,0.0,-1.7180231490327573,0.0,2. Good (4.0 - 4.4),Others,4.1,1,0.0,4.1,4.1,Indie Developer,1,95,3.9600000000000004,2026-01-08,2026-01-08 11:48:26
+Rise of Kingdoms,Lilith Games,Strategy,4.3,Normal,0.28571428571428553,-0.5612208953507007,28.57,2. Good (4.0 - 4.4),Strategy,4.35,2,0.07,4.3,4.4,Indie Developer,17,60,32.18,2026-01-08,2026-01-08 11:48:26
+AFK Arena,Lilith Games,Rpg,4.4,Normal,0.42857142857142894,0.017180231490330142,42.86,2. Good (4.0 - 4.4),Rpg,4.35,2,0.07,4.3,4.4,Indie Developer,6,40,51.980000000000004,2026-01-08,2026-01-08 11:48:26
+Mobile Legends,Moonton,Moba,4.3,Normal,0.28571428571428553,-0.5612208953507007,28.57,2. Good (4.0 - 4.4),Others,4.3,1,0.0,4.3,4.3,Indie Developer,2,60,32.18,2026-01-08,2026-01-08 11:48:26
+Free Fire,Garena,Battle Royale,4.3,Normal,0.28571428571428553,-0.5612208953507007,28.57,2. Good (4.0 - 4.4),Battle Royale,4.3,1,0.0,4.3,4.3,Indie Developer,3,60,32.18,2026-01-08,2026-01-08 11:48:26
+Dragon Ball Legends,Bandai Namco,Fighting,4.2,Normal,0.1428571428571434,-1.1396220221917264,14.29,2. Good (4.0 - 4.4),Others,4.2,1,0.0,4.2,4.2,Indie Developer,2,80,14.85,2026-01-08,2026-01-08 11:48:26
+Marvel Contest of Champions,Kabam,Fighting,4.4,Normal,0.42857142857142894,0.017180231490330142,42.86,2. Good (4.0 - 4.4),Others,4.4,1,0.0,4.4,4.4,Indie Developer,2,40,51.980000000000004,2026-01-08,2026-01-08 11:48:26
+Dragon City,Socialpoint,Simulation,4.3,Normal,0.28571428571428553,-0.5612208953507007,28.57,2. Good (4.0 - 4.4),Simulation,4.3,1,0.0,4.3,4.3,Indie Developer,14,60,32.18,2026-01-08,2026-01-08 11:48:26
+The Sims Mobile,Electronic Arts,Simulation,4.2,Normal,0.1428571428571434,-1.1396220221917264,14.29,2. Good (4.0 - 4.4),Simulation,4.32,4,0.1,4.2,4.4,Mid-Tier Publisher,14,80,14.85,2026-01-08,2026-01-08 11:48:26
+SimCity BuildIt,Electronic Arts,Simulation,4.3,Normal,0.28571428571428553,-0.5612208953507007,28.57,2. Good (4.0 - 4.4),Simulation,4.32,4,0.1,4.2,4.4,Mid-Tier Publisher,14,60,32.18,2026-01-08,2026-01-08 11:48:26
+Hay Day,Supercell,Simulation,4.4,Normal,0.42857142857142894,0.017180231490330142,42.86,2. Good (4.0 - 4.4),Simulation,4.48,5,0.04,4.4,4.5,AAA Publisher,14,40,51.980000000000004,2026-01-08,2026-01-08 11:48:26
+FarmVille 2: Country Escape,Zynga,Simulation,4.2,Normal,0.1428571428571434,-1.1396220221917264,14.29,2. Good (4.0 - 4.4),Simulation,4.2,1,0.0,4.2,4.2,Indie Developer,14,80,14.85,2026-01-08,2026-01-08 11:48:26
+CSR Racing 2,NaturalMotion,Racing,4.6,Normal,0.7142857142857132,1.1739824851723817,71.43,1. Top Rated (≥4.5),Racing,4.55,2,0.07,4.5,4.6,Indie Developer,5,8,88.12,2026-01-08,2026-01-08 11:48:26
+Real Racing 3,Electronic Arts,Racing,4.4,Normal,0.42857142857142894,0.017180231490330142,42.86,2. Good (4.0 - 4.4),Racing,4.32,4,0.1,4.2,4.4,Mid-Tier Publisher,5,40,51.980000000000004,2026-01-08,2026-01-08 11:48:26
+Sonic Dash,SEGA,Endless Runner,4.3,Normal,0.28571428571428553,-0.5612208953507007,28.57,2. Good (4.0 - 4.4),Endless Runner,4.3,1,0.0,4.3,4.3,Indie Developer,4,60,32.18,2026-01-08,2026-01-08 11:48:26
+Pokemon Masters EX,DeNA Co.,Rpg,4.4,Normal,0.42857142857142894,0.017180231490330142,42.86,2. Good (4.0 - 4.4),Rpg,4.4,1,0.0,4.4,4.4,Indie Developer,6,40,51.980000000000004,2026-01-08,2026-01-08 11:48:26
+Final Fantasy XV: A New Empire,Epic Action LLC,Strategy,4.2,Normal,0.1428571428571434,-1.1396220221917264,14.29,2. Good (4.0 - 4.4),Strategy,4.2,1,0.0,4.2,4.2,Indie Developer,17,80,14.85,2026-01-08,2026-01-08 11:48:26
+Lords Mobile,IGG.COM,Strategy,4.3,Normal,0.28571428571428553,-0.5612208953507007,28.57,2. Good (4.0 - 4.4),Strategy,4.35,2,0.07,4.3,4.4,Indie Developer,17,60,32.18,2026-01-08,2026-01-08 11:48:26
+State of Survival,KingsGroup Holdings,Strategy,4.1,Normal,0.0,-1.7180231490327573,0.0,2. Good (4.0 - 4.4),Strategy,4.1,1,0.0,4.1,4.1,Indie Developer,17,95,3.9600000000000004,2026-01-08,2026-01-08 11:48:26
+Rise of Empires,Long Tech Network Limited,Strategy,4.2,Normal,0.1428571428571434,-1.1396220221917264,14.29,2. Good (4.0 - 4.4),Strategy,4.2,1,0.0,4.2,4.2,Indie Developer,17,80,14.85,2026-01-08,2026-01-08 11:48:26
+Clash of Kings,Elex Wireless,Strategy,4.1,Normal,0.0,-1.7180231490327573,0.0,2. Good (4.0 - 4.4),Strategy,4.1,1,0.0,4.1,4.1,Indie Developer,17,95,3.9600000000000004,2026-01-08,2026-01-08 11:48:26
+Game of War - Fire Age,Machine Zone,Strategy,4.2,Normal,0.1428571428571434,-1.1396220221917264,14.29,2. Good (4.0 - 4.4),Strategy,4.2,2,0.0,4.2,4.2,Indie Developer,17,80,14.85,2026-01-08,2026-01-08 11:48:26
+Empires & Puzzles,Small Giant Games,Puzzle,4.3,Normal,0.28571428571428553,-0.5612208953507007,28.57,2. Good (4.0 - 4.4),Puzzle,4.3,1,0.0,4.3,4.3,Indie Developer,13,60,32.18,2026-01-08,2026-01-08 11:48:26
+RAID: Shadow Legends,Plarium Global Ltd,Rpg,4.3,Normal,0.28571428571428553,-0.5612208953507007,28.57,2. Good (4.0 - 4.4),Rpg,4.3,1,0.0,4.3,4.3,Indie Developer,6,60,32.18,2026-01-08,2026-01-08 11:48:26
+Forge of Empires,InnoGames,Strategy,4.1,Normal,0.0,-1.7180231490327573,0.0,2. Good (4.0 - 4.4),Strategy,4.1,1,0.0,4.1,4.1,Indie Developer,17,95,3.9600000000000004,2026-01-08,2026-01-08 11:48:26
+March of Empires,Gameloft SE,Strategy,4.3,Normal,0.28571428571428553,-0.5612208953507007,28.57,2. Good (4.0 - 4.4),Strategy,4.3,1,0.0,4.3,4.3,Indie Developer,17,60,32.18,2026-01-08,2026-01-08 11:48:26
+Plants vs. Zombies,PopCap Games,Strategy,4.4,Normal,0.42857142857142894,0.017180231490330142,42.86,2. Good (4.0 - 4.4),Strategy,4.4,1,0.0,4.4,4.4,Indie Developer,17,40,51.980000000000004,2026-01-08,2026-01-08 11:48:26
+Boom Beach,Supercell,Strategy,4.5,Normal,0.5714285714285711,0.5955813583313558,57.14,1. Top Rated (≥4.5),Strategy,4.48,5,0.04,4.4,4.5,AAA Publisher,17,19,72.28,2026-01-08,2026-01-08 11:48:26
+Dragon Mania Legends,Gameloft,Simulation,4.3,Normal,0.28571428571428553,-0.5612208953507007,28.57,2. Good (4.0 - 4.4),Simulation,4.45,2,0.21,4.3,4.6,Indie Developer,14,60,32.18,2026-01-08,2026-01-08 11:48:26
+Angry Birds 2,Rovio Entertainment,Arcade,4.6,Normal,0.7142857142857132,1.1739824851723817,71.43,1. Top Rated (≥4.5),Arcade,4.5,3,0.17,4.3,4.6,Mid-Tier Publisher,10,8,88.12,2026-01-08,2026-01-08 11:48:26
+Doodle Jump,Lima Sky LLC,Arcade,4.2,Normal,0.1428571428571434,-1.1396220221917264,14.29,2. Good (4.0 - 4.4),Arcade,4.2,1,0.0,4.2,4.2,Indie Developer,10,80,14.85,2026-01-08,2026-01-08 11:48:26
+CSR Classics,NaturalMotion,Racing,4.5,Normal,0.5714285714285711,0.5955813583313558,57.14,1. Top Rated (≥4.5),Racing,4.55,2,0.07,4.5,4.6,Indie Developer,5,19,72.28,2026-01-08,2026-01-08 11:48:26
+Marvel Strike Force,Scopely,Rpg,4.3,Normal,0.28571428571428553,-0.5612208953507007,28.57,2. Good (4.0 - 4.4),Rpg,4.3,1,0.0,4.3,4.3,Indie Developer,6,60,32.18,2026-01-08,2026-01-08 11:48:26
+Honkai Impact 3rd,miHoYo,Action Rpg,4.6,Normal,0.7142857142857132,1.1739824851723817,71.43,1. Top Rated (≥4.5),Others,4.65,2,0.07,4.6,4.7,Indie Developer,2,8,88.12,2026-01-08,2026-01-08 11:48:26
+Vainglory,Super Evil Megacorp,Moba,4.1,Normal,0.0,-1.7180231490327573,0.0,2. Good (4.0 - 4.4),Others,4.1,1,0.0,4.1,4.1,Indie Developer,2,95,3.9600000000000004,2026-01-08,2026-01-08 11:48:26
+Mobile Strike,Machine Zone,Strategy,4.2,Normal,0.1428571428571434,-1.1396220221917264,14.29,2. Good (4.0 - 4.4),Strategy,4.2,2,0.0,4.2,4.2,Indie Developer,17,80,14.85,2026-01-08,2026-01-08 11:48:26
+War Robots,Pixonic,Action,4.3,Normal,0.28571428571428553,-0.5612208953507007,28.57,2. Good (4.0 - 4.4),Action,4.3,1,0.0,4.3,4.3,Indie Developer,5,60,32.18,2026-01-08,2026-01-08 11:48:26
+Clash of Lords 2,IGG.COM,Strategy,4.4,Normal,0.42857142857142894,0.017180231490330142,42.86,2. Good (4.0 - 4.4),Strategy,4.35,2,0.07,4.3,4.4,Indie Developer,17,40,51.980000000000004,2026-01-08,2026-01-08 11:48:26
+Cooking Fever,Nordcurrent,Simulation,4.4,Normal,0.42857142857142894,0.017180231490330142,42.86,2. Good (4.0 - 4.4),Simulation,4.4,1,0.0,4.4,4.4,Indie Developer,14,40,51.980000000000004,2026-01-08,2026-01-08 11:48:26
+Candy Crush Soda Saga,King,Puzzle,4.5,Normal,0.5714285714285711,0.5955813583313558,57.14,1. Top Rated (≥4.5),Puzzle,4.55,2,0.07,4.5,4.6,Indie Developer,13,19,72.28,2026-01-08,2026-01-08 11:48:26
+Piano Tiles 2,Cheetah Mobile,Music,4.4,Normal,0.42857142857142894,0.017180231490330142,42.86,2. Good (4.0 - 4.4),Others,4.4,1,0.0,4.4,4.4,Indie Developer,1,40,51.980000000000004,2026-01-08,2026-01-08 11:48:26
+Cut the Rope,ZeptoLab,Puzzle,4.5,Normal,0.5714285714285711,0.5955813583313558,57.14,1. Top Rated (≥4.5),Puzzle,4.35,2,0.21,4.2,4.5,Indie Developer,13,19,72.28,2026-01-08,2026-01-08 11:48:26
+Jetpack Joyride,Halfbrick Studios,Arcade,4.4,Normal,0.42857142857142894,0.017180231490330142,42.86,2. Good (4.0 - 4.4),Arcade,4.4,2,0.0,4.4,4.4,Indie Developer,10,40,51.980000000000004,2026-01-08,2026-01-08 11:48:26
+Crossy Road,Hipster Whale,Arcade,4.6,Normal,0.7142857142857132,1.1739824851723817,71.43,1. Top Rated (≥4.5),Arcade,4.6,1,0.0,4.6,4.6,Indie Developer,10,8,88.12,2026-01-08,2026-01-08 11:48:26
+Badland,Frogmind,Adventure,4.5,Normal,0.5714285714285711,0.5955813583313558,57.14,1. Top Rated (≥4.5),Others,4.5,1,0.0,4.5,4.5,Indie Developer,2,19,72.28,2026-01-08,2026-01-08 11:48:26
+Shadow Fight 3,Nekki,Action,4.3,Normal,0.28571428571428553,-0.5612208953507007,28.57,2. Good (4.0 - 4.4),Action,4.3,1,0.0,4.3,4.3,Indie Developer,5,60,32.18,2026-01-08,2026-01-08 11:48:26
+King of Thieves,ZeptoLab,Arcade,4.2,Normal,0.1428571428571434,-1.1396220221917264,14.29,2. Good (4.0 - 4.4),Arcade,4.35,2,0.21,4.2,4.5,Indie Developer,10,80,14.85,2026-01-08,2026-01-08 11:48:26
+Terraria,505 Games,Adventure,4.6,Normal,0.7142857142857132,1.1739824851723817,71.43,1. Top Rated (≥4.5),Others,4.6,1,0.0,4.6,4.6,Indie Developer,2,8,88.12,2026-01-08,2026-01-08 11:48:26
+BitLife,Goodgame Studios,Simulation,4.2,Normal,0.1428571428571434,-1.1396220221917264,14.29,2. Good (4.0 - 4.4),Simulation,4.2,1,0.0,4.2,4.2,Indie Developer,14,80,14.85,2026-01-08,2026-01-08 11:48:26
+Toca Life: World,Toca Boca,Simulation,4.5,Normal,0.5714285714285711,0.5955813583313558,57.14,1. Top Rated (≥4.5),Simulation,4.5,1,0.0,4.5,4.5,Indie Developer,14,19,72.28,2026-01-08,2026-01-08 11:48:26
+Score! Hero,First Touch Games,Sports,4.3,Normal,0.28571428571428553,-0.5612208953507007,28.57,2. Good (4.0 - 4.4),Sports,4.35,2,0.07,4.3,4.4,Indie Developer,4,60,32.18,2026-01-08,2026-01-08 11:48:26
+Dream League Soccer,First Touch Games,Sports,4.4,Normal,0.42857142857142894,0.017180231490330142,42.86,2. Good (4.0 - 4.4),Sports,4.35,2,0.07,4.3,4.4,Indie Developer,4,40,51.980000000000004,2026-01-08,2026-01-08 11:48:26
+Stick War: Legacy,Max Games Studios,Strategy,4.5,Normal,0.5714285714285711,0.5955813583313558,57.14,1. Top Rated (≥4.5),Strategy,4.5,1,0.0,4.5,4.5,Indie Developer,17,19,72.28,2026-01-08,2026-01-08 11:48:26
+Pixel Gun 3D,Cubic Games,Action,4.1,Normal,0.0,-1.7180231490327573,0.0,2. Good (4.0 - 4.4),Action,4.1,1,0.0,4.1,4.1,Indie Developer,5,95,3.9600000000000004,2026-01-08,2026-01-08 11:48:26
+Smash Hit,Mediocre,Arcade,4.5,Normal,0.5714285714285711,0.5955813583313558,57.14,1. Top Rated (≥4.5),Arcade,4.5,1,0.0,4.5,4.5,Indie Developer,10,19,72.28,2026-01-08,2026-01-08 11:48:26
+Geometry Dash,RobTop Games,Arcade,4.6,Normal,0.7142857142857132,1.1739824851723817,71.43,1. Top Rated (≥4.5),Arcade,4.6,1,0.0,4.6,4.6,Indie Developer,10,8,88.12,2026-01-08,2026-01-08 11:48:26
+Fallout Shelter,Bethesda Softworks,Simulation,4.5,Normal,0.5714285714285711,0.5955813583313558,57.14,1. Top Rated (≥4.5),Simulation,4.5,1,0.0,4.5,4.5,Indie Developer,14,19,72.28,2026-01-08,2026-01-08 11:48:26
+Hungry Shark Evolution,Ubisoft,Arcade,4.4,Normal,0.42857142857142894,0.017180231490330142,42.86,2. Good (4.0 - 4.4),Arcade,4.4,1,0.0,4.4,4.4,Indie Developer,10,40,51.980000000000004,2026-01-08,2026-01-08 11:48:26
+Granny,DVloper,Horror,4.3,Normal,0.28571428571428553,-0.5612208953507007,28.57,2. Good (4.0 - 4.4),Others,4.3,1,0.0,4.3,4.3,Indie Developer,2,60,32.18,2026-01-08,2026-01-08 11:48:26
+Five Nights at Freddy's,Scott Cawthon,Horror,4.6,Normal,0.7142857142857132,1.1739824851723817,71.43,1. Top Rated (≥4.5),Others,4.6,1,0.0,4.6,4.6,Indie Developer,2,8,88.12,2026-01-08,2026-01-08 11:48:26
+Star Wars: Galaxy of Heroes,Electronic Arts,Rpg,4.4,Normal,0.42857142857142894,0.017180231490330142,42.86,2. Good (4.0 - 4.4),Rpg,4.32,4,0.1,4.2,4.4,Mid-Tier Publisher,6,40,51.980000000000004,2026-01-08,2026-01-08 11:48:26
+Summoners War,Com2uS,Rpg,4.2,Normal,0.1428571428571434,-1.1396220221917264,14.29,2. Good (4.0 - 4.4),Rpg,4.2,1,0.0,4.2,4.2,Indie Developer,6,80,14.85,2026-01-08,2026-01-08 11:48:26
+Tap Titans 2,Game Hive Corporation,Clicker,4.5,Normal,0.5714285714285711,0.5955813583313558,57.14,1. Top Rated (≥4.5),Others,4.5,1,0.0,4.5,4.5,Indie Developer,1,19,72.28,2026-01-08,2026-01-08 11:48:26
+My Talking Tom,Outfit7,Virtual Pet,4.5,Normal,0.5714285714285711,0.5955813583313558,57.14,1. Top Rated (≥4.5),Others,4.5,1,0.0,4.5,4.5,Indie Developer,1,19,72.28,2026-01-08,2026-01-08 11:48:26
+Farming Simulator 20,GIANTS Software,Simulation,4.3,Normal,0.28571428571428553,-0.5612208953507007,28.57,2. Good (4.0 - 4.4),Simulation,4.3,1,0.0,4.3,4.3,Indie Developer,14,60,32.18,2026-01-08,2026-01-08 11:48:26
+Angry Birds Dream Blast,Rovio Entertainment,Puzzle,4.6,Normal,0.7142857142857132,1.1739824851723817,71.43,1. Top Rated (≥4.5),Puzzle,4.5,3,0.17,4.3,4.6,Mid-Tier Publisher,13,8,88.12,2026-01-08,2026-01-08 11:48:26
+Wordscapes,PeopleFun,Puzzle,4.5,Normal,0.5714285714285711,0.5955813583313558,57.14,1. Top Rated (≥4.5),Puzzle,4.5,1,0.0,4.5,4.5,Indie Developer,13,19,72.28,2026-01-08,2026-01-08 11:48:26
+2048,Gabriele Cirulli,Puzzle,4.4,Normal,0.42857142857142894,0.017180231490330142,42.86,2. Good (4.0 - 4.4),Puzzle,4.4,1,0.0,4.4,4.4,Indie Developer,13,40,51.980000000000004,2026-01-08,2026-01-08 11:48:26
+Brain Out,Focus apps,Puzzle,4.4,Normal,0.42857142857142894,0.017180231490330142,42.86,2. Good (4.0 - 4.4),Puzzle,4.4,1,0.0,4.4,4.4,Indie Developer,13,40,51.980000000000004,2026-01-08,2026-01-08 11:48:26
+Ink Inc.,Lion Studios,Simulation,4.2,Normal,0.1428571428571434,-1.1396220221917264,14.29,2. Good (4.0 - 4.4),Simulation,4.2,1,0.0,4.2,4.2,Indie Developer,14,80,14.85,2026-01-08,2026-01-08 11:48:26
+Idle Miner Tycoon,Kolibri Games,Simulation,4.5,Normal,0.5714285714285711,0.5955813583313558,57.14,1. Top Rated (≥4.5),Simulation,4.5,1,0.0,4.5,4.5,Indie Developer,14,19,72.28,2026-01-08,2026-01-08 11:48:26
+Fishing Clash,Ten Square Games,Sports,4.6,Normal,0.7142857142857132,1.1739824851723817,71.43,1. Top Rated (≥4.5),Sports,4.6,1,0.0,4.6,4.6,Indie Developer,4,8,88.12,2026-01-08,2026-01-08 11:48:26
+Merge Dragons!,Gram Games,Puzzle,4.5,Normal,0.5714285714285711,0.5955813583313558,57.14,1. Top Rated (≥4.5),Puzzle,4.5,1,0.0,4.5,4.5,Indie Developer,13,19,72.28,2026-01-08,2026-01-08 11:48:26
+Coin Master,Moon Active,Casual,4.4,Normal,0.42857142857142894,0.017180231490330142,42.86,2. Good (4.0 - 4.4),Others,4.4,1,0.0,4.4,4.4,Indie Developer,1,40,51.980000000000004,2026-01-08,2026-01-08 11:48:26
+Monument Valley,Ustwo Games,Puzzle,4.8,Normal,0.9999999999999988,2.330784738854438,100.0,1. Top Rated (≥4.5),Puzzle,4.8,1,0.0,4.8,4.8,Indie Developer,13,2,98.02,2026-01-08,2026-01-08 11:48:26
+Stardew Valley,ConcernedApe,Simulation,4.7,Normal,0.8571428571428567,1.7523836120134124,85.71,1. Top Rated (≥4.5),Simulation,4.7,1,0.0,4.7,4.7,Indie Developer,14,5,95.05,2026-01-08,2026-01-08 11:48:26
+Hades,Supergiant Games,Action,4.800000000000001,Normal,1.0,2.3307847388544434,100.0,1. Top Rated (≥4.5),Action,4.8,1,0.0,4.8,4.8,Indie Developer,5,1,100.0,2026-01-08,2026-01-08 11:48:26
+Plague Inc.,Ndemic Creations,Strategy,4.5,Normal,0.5714285714285711,0.5955813583313558,57.14,1. Top Rated (≥4.5),Strategy,4.5,1,0.0,4.5,4.5,Indie Developer,17,19,72.28,2026-01-08,2026-01-08 11:48:26
+Alto's Adventure,Noodlecake Studios,Endless Runner,4.7,Normal,0.8571428571428567,1.7523836120134124,85.71,1. Top Rated (≥4.5),Endless Runner,4.7,1,0.0,4.7,4.7,Indie Developer,4,5,95.05,2026-01-08,2026-01-08 11:48:26
+The Room,Fireproof Games,Puzzle,4.8,Normal,0.9999999999999988,2.330784738854438,100.0,1. Top Rated (≥4.5),Puzzle,4.8,1,0.0,4.8,4.8,Indie Developer,13,2,98.02,2026-01-08,2026-01-08 11:48:26

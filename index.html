@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🕹️ PIXARENA - Game Stats Hub</title>
+    <link href="https://fonts.googleapis.com/css2?family=Bungee&family=Fredoka:wght@400;500;600;700&family=Rubik:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Fun Background -->
+    <div class="bg-pattern"></div>
+
+    <!-- Header -->
+    <header class="header">
+        <div class="header-content">
+            <div class="logo">
+                <div class="logo-icon">
+                    <span class="pixel-controller">🕹️</span>
+                </div>
+                <div class="logo-text">
+                    <span class="logo-main">PIXARENA</span>
+                    <span class="logo-sub">Game Stats Hub</span>
+                </div>
+            </div>
+            <div class="header-right">
+                <div class="live-badge">
+                    <span class="dot"></span>
+                    LIVE
+                </div>
+                <div class="date-box" id="snapshot-date">Loading...</div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Filter Section -->
+    <section class="filter-section">
+        <div class="filter-title">
+            <i class="fas fa-gamepad"></i> FILTER GAMES
+        </div>
+        <div class="filter-grid">
+            <div class="filter-box">
+                <label>🎯 Genre</label>
+                <select id="filter-genre" onchange="applyFilters()">
+                    <option value="all">All Genres</option>
+                </select>
+            </div>
+            <div class="filter-box">
+                <label>🏢 Developer</label>
+                <select id="filter-tier" onchange="applyFilters()">
+                    <option value="all">All Tiers</option>
+                    <option value="AAA Publisher">AAA Publisher</option>
+                    <option value="Mid-Tier Publisher">Mid-Tier</option>
+                    <option value="Indie Developer">Indie</option>
+                </select>
+            </div>
+            <div class="filter-box">
+                <label>⭐ Rating</label>
+                <select id="filter-rating" onchange="applyFilters()">
+                    <option value="all">All Ratings</option>
+                </select>
+            </div>
+            <div class="filter-box search">
+                <label>🔍 Search</label>
+                <input type="text" id="filter-search" placeholder="Find a game..." oninput="applyFilters()">
+            </div>
+            <button class="reset-btn" onclick="resetFilters()">
+                <i class="fas fa-refresh"></i> Reset
+            </button>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <!-- Stats Row -->
+        <section class="stats-row">
+            <div class="stat-card orange">
+                <div class="stat-emoji">🎮</div>
+                <div class="stat-number" id="kpi-total">0</div>
+                <div class="stat-text">Total Games</div>
+            </div>
+            <div class="stat-card blue">
+                <div class="stat-emoji">⭐</div>
+                <div class="stat-number" id="kpi-avg">0.00</div>
+                <div class="stat-text">Avg Rating</div>
+            </div>
+            <div class="stat-card yellow">
+                <div class="stat-emoji">🏆</div>
+                <div class="stat-number" id="kpi-top">0</div>
+                <div class="stat-text">Top Rated</div>
+            </div>
+            <div class="stat-card purple">
+                <div class="stat-emoji">👨‍💻</div>
+                <div class="stat-number" id="kpi-devs">0</div>
+                <div class="stat-text">Developers</div>
+            </div>
+            <div class="stat-card green">
+                <div class="stat-emoji">🧩</div>
+                <div class="stat-number" id="kpi-genres">0</div>
+                <div class="stat-text">Genres</div>
+            </div>
+        </section>
+
+        <!-- Charts Grid -->
+        <section class="charts-grid">
+            <div class="chart-box wide">
+                <div class="box-header orange-header">
+                    <span>📊 Games by Genre</span>
+                </div>
+                <div class="box-content">
+                    <canvas id="genreChart"></canvas>
+                </div>
+            </div>
+            <div class="chart-box">
+                <div class="box-header blue-header">
+                    <span>🎯 Rating Breakdown</span>
+                </div>
+                <div class="box-content">
+                    <canvas id="ratingChart"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <section class="charts-grid">
+            <div class="chart-box">
+                <div class="box-header purple-header">
+                    <span>🏢 Developer Types</span>
+                </div>
+                <div class="box-content">
+                    <canvas id="tierChart"></canvas>
+                </div>
+            </div>
+            <div class="chart-box wide">
+                <div class="box-header yellow-header">
+                    <span>🏆 Top 10 Best Games</span>
+                </div>
+                <div class="box-content">
+                    <canvas id="topGamesChart"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <!-- Leaderboard -->
+        <section class="leaderboard-section">
+            <div class="leaderboard-box">
+                <div class="box-header green-header">
+                    <span>🏅 GAME LEADERBOARD</span>
+                    <span class="count-badge"><strong id="table-count">0</strong> games</span>
+                </div>
+                <div class="table-container">
+                    <table id="game-table">
+                        <thead>
+                            <tr>
+                                <th onclick="sortTable(0)">Rank</th>
+                                <th onclick="sortTable(1)">Game Name</th>
+                                <th onclick="sortTable(2)">Developer</th>
+                                <th onclick="sortTable(3)">Genre</th>
+                                <th onclick="sortTable(4)">Rating</th>
+                                <th onclick="sortTable(5)">Score</th>
+                                <th onclick="sortTable(6)">Type</th>
+                            </tr>
+                        </thead>
+                        <tbody id="table-body"></tbody>
+                    </table>
+                </div>
+                <div class="pagination-bar">
+                    <button onclick="changePage(-1)" id="prev-btn">◀ Prev</button>
+                    <span id="page-info">1 / 1</span>
+                    <button onclick="changePage(1)" id="next-btn">Next ▶</button>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>🕹️ PIXEL ARENA © 2026 | Your Ultimate Game Stats Dashboard</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
